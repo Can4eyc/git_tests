@@ -4,5 +4,6 @@ while [ $COUNTER -lt 10 ]
 do 
    echo The counter is $COUNTER 
    let COUNTER=$COUNTER+2
+#add comment
    echo next operation  
 done
